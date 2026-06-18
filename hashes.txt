@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Noche de ausencias, Vol. 2
+
+This log tracks the cryptographic history and versioning for the song **Noche de ausencias, Vol. 2** (noche-de-ausencias-vol-2).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-19T02:23:08.485449 | `v1` | `c30c819165f4bad25bd8945ad0ddf310c309d38233c57806af45488ae420aaae` | `edc1567682f8c0f68e147ec6053b16c60f177196579f8b6e9d69797d0563e75b` | `2026-06-19_noche-de-ausencias-vol-2-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*

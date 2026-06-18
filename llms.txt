@@ -1,4 +1,4 @@
-# Noche de ausencias
+# Noche de ausencias, Vol. 2
 
 ---
 
@@ -10,12 +10,12 @@
 
 | Field | Details |
 |-------|---------|
-| **Title** | Noche de ausencias |
+| **Title** | Noche de ausencias, Vol. 2 |
 | **Written By** | [Abu Sayed](https://abusayed.com.bd/) |
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/noche-de-ausencias/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Obtain a Music License for Noche de ausencias](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/noche-de-ausencias/) |
+| **Get License** | [Secure Licensing Rights for Noche de ausencias, Vol. 2](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/noche-de-ausencias/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Otra madrugada que me llama la ciudad
+> Buscando en cada sombra un poco de tu humedad
+> El humo en el aire me recuerda tu olor
+> Nena, te busco a ti, ya no me sirve el alcohol
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
@@ -107,8 +110,8 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
-| **Timestamp** | June 18, 2026 |
+| **SHA-256 Hash** | `c30c819165f4bad25bd8945ad0ddf310c309d38233c57806af45488ae420aaae` |
+| **Timestamp** | June 19, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
 
